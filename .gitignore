@@ -1,0 +1,13 @@
+# Môi trường Python
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# File của VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
